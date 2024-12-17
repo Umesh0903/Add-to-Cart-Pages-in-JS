@@ -1,5 +1,9 @@
----Add items to the shopping cart.
----View cart items dynamically.
----Update item quantities.
----Remove items from the cart.
----Store cart state in memory or optionally use local storage.
+1.Add items to the shopping cart.
+
+2.View cart items dynamically.
+
+3.Update item quantities.
+
+4.Remove items from the cart.
+
+5.Store cart state in memory or optionally use local storage.
